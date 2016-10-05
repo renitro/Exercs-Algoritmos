@@ -4,10 +4,12 @@
 
 main()
 {
+	setlocale(LC_ALL, "Portuguese");
+	
 	int x[15], maior, menor;
 	for(int i = 0; i < 15; i++)
 	{
-		printf("Digite o %iª valor: ", (i+1));
+		printf("Digite o %io valor: ", (i+1));
 		scanf("%i", &x[i]);
 			
 	}

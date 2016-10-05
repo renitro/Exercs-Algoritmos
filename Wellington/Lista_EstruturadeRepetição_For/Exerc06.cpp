@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-//5 - Escreva um programa que apresenta os números divisores de um número
+//6 - Faça um programa em C para exibir a tabuada de 0 a 10
 
 main()
 {
