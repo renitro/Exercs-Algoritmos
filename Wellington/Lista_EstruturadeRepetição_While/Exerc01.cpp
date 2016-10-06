@@ -23,3 +23,5 @@ main()
 	printf("\n\nSoma dos números digitados: %.2f", soma);
 	printf("\nMédia dos números digitados: %.2f", (soma/cont));
 }
+
+

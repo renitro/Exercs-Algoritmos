@@ -33,7 +33,7 @@ main()
 		if (menor > media && media >=0)
 		menor = media;
 	}
-	printf("\n\n\n%f %f", soma, cont);
+
 	printf("\n\nMaior média digitada: %.2f", maior);
 	printf("\nMenor média digitada: %.2f", menor);
 	printf("\nMédia aritmética da turma: %.2f", (soma/cont));
